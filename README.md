@@ -1,32 +1,27 @@
-### Hi there 👋, My name is Rishabh Shukla
-#### LEARNER AND DEVELOPER FROM INDIA
+<h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="gif" width="400" src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamguru02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rishabhshukla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Tangocharlie.2002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamguru2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iamguru2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Faujistaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://drive.google.com/file/d/1JOzZ_-DLg28wso4eXVsFPLqV9oPa3oCp/view)  
 
-Hello 
-I'm a sophomore at VIT. I'm an innovative developer who can develop new practices using the old ones. I'm pretty well in learning new technologies.
-Currently I'm learning Mysql and practising DSA in Cpp to enhance my Logic building. 
-I'm pretty much into video editing and content creation.
+- 🌱 I’m currently learning **Javascript , MySQL**
 
+- 📫 How to reach me **kumkumshukla631@gmail.com**
 
-Skills: Technologies - Cpp, HTML, CSS , git, github and framework like Bootstrap. 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on Front end development 
-- 🌱 I’m currently learning Javascript 
-- 📫 How to reach me: https://linktr.ee/Rishabh_Shukla02 
+<p> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=iamguru02&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376" alt="iamguru02" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamguru02)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamguru02&show_icons=true)  
+<div align='center' width="6rem">
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=iamguru02&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="iamguru02  github stats" />
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iamguru02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
+</div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamguru02)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamguru02)  
-
-![Profile views](https://gpvc.arturio.dev/iamguru02)  
-
-![LEARNER AND DEVELOPER FROM INDIA](https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/footer.png)
+#
 
 
+
+![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
