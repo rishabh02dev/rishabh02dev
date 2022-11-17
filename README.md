@@ -17,3 +17,8 @@ Twitter - Iamguru.2002
 Let's Work together and built something new which will be helping needy ones. 
 
 •Indian Armed Forces ❤🇮🇳
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamguru02)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamguru02)](https://github.com/anuraghazra/github-readme-stats)
