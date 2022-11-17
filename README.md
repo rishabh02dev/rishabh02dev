@@ -21,4 +21,4 @@ Let's Work together and built something new which will be helping needy ones.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamguru02)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamguru02)](https://github.com/anuraghazra/github-readme-stats)
+[![iamguru02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamguru02)](https://github.com/anuraghazra/github-readme-stats)
