@@ -13,13 +13,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
-<p> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=iamguru02&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376" alt="iamguru02" /></p>
+<p> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishabh02dev&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376" alt="rishabh02dev" /></p>
 
 
 
 <div align='center' width="6rem">
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=iamguru02&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="iamguru02  github stats" />
-    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iamguru02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="rishabh02dev"  github stats" />
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
 </div>
 
 #
