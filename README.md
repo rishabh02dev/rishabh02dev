@@ -13,7 +13,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
-<p> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishabh02dev&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376" alt="rishabh02dev" /></p>
 
 
 
@@ -27,3 +26,6 @@
 
 
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
+
+
+
