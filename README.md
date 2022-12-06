@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Node.js , MySQL**
+
+- 📫 How to reach me **kumkumshukla631@gmail.com**
+
 #
 
 
@@ -9,9 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js , MySQL**
 
-- 📫 How to reach me **kumkumshukla631@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
