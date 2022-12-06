@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="gif" width="400" src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+<img align="right" alt="gif" height = "400" width="400"align = "right" src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 
 
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **kumkumshukla631@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,figma,nodejs,pug,css,bootstrap,git,mysql" >
