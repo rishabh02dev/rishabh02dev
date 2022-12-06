@@ -14,7 +14,7 @@
 
 
 
-
+<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rishabh02dev&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
 
 <div align='center' width="6rem">
     <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="rishabh02dev"  github stats" />
