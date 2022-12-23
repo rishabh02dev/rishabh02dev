@@ -28,6 +28,7 @@
     <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&theme=jolly&show_icons=true"/>
     <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
+[GitHub Profile Views Counter]: https://github.com/rishabh02dev/github-profile-views-counter
 
 
 
