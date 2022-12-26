@@ -25,8 +25,9 @@
 
 
 <div align='center' width="6rem">
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&theme=jolly&show_icons=true"/>
-    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=jolly&border_radius=5" alt= "stats"/>
+    <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh02dev&theme=jolly&layout=compact&langs_count=10&hide=html"/>
+<!--     <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&theme=jolly&show_icons=true"/> -->
+    <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 
 
