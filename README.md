@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **DSA , MySQL**
 
-- 📫 How to reach me **kumkumshukla631@gmail.com**
+- 📫 How to reach me **kumkumshukla631@gmail.com**<br>
+<p>My Resume: <a href = "https://drive.google.com/file/d/1T1yeDbaLzwK-BkV14sInEH3jYLmoGUeW/view" target = "_blank">Click Here</a></p>
 
-#
 [GitHub Profile Views Counter]: https://github.com/rishabh02dev/github-profile-views-counter
 
 
@@ -30,8 +30,6 @@
     <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 
-Link to Resume <br>
-https://drive.google.com/file/d/1T1yeDbaLzwK-BkV14sInEH3jYLmoGUeW/view
 
 
 
