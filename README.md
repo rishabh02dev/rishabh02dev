@@ -30,7 +30,8 @@
     <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 
-
+Link to Resume <br>
+https://drive.google.com/file/d/1T1yeDbaLzwK-BkV14sInEH3jYLmoGUeW/view
 
 
 
