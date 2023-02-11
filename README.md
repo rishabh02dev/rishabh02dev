@@ -17,7 +17,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postman,cpp,java,python,html,css,js,figma,nodejs,express,pug,mongodb,php" >
+<img src="https://skillicons.dev/icons?i=postman,cpp,java,python,html,css,js,figma,nodejs,express,pug,mongodb,php,xampp,node.js,git" >
 </p>
 
 <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rishabh02dev&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
