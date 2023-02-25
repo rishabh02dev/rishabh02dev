@@ -12,7 +12,7 @@
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png) 
 
 
-
+  
 
 
 <h3 align="center">Languages and Tools:</h3>
