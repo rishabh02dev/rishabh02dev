@@ -11,24 +11,47 @@
   
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png) 
 
-  
-  
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+         </td>
+        </tr>
+    </tbody>
+</table>
+<br/>
 
+## My Github Stats 🏆
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postman,cpp,java,python,html,css,js,figma,nodejs,express,pug,mongodb,php" >
+<br/>
+
+<div class = "container">  
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" />
+ 
+<img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=rishabh02dev&theme=dracula&hide_border=true" />
+ 
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh02dev&layout=donut&theme=dracula&hide_border=true" />
+
+<img style="height = 80%; width: 55%;" class="img" src="https://leetcode-stats-six.vercel.app/api?username=rishabh02dev&theme=dark" />
+</div>
+</div>
+
+<br/>
+<!-- [![Aswin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
+ -->
+
+[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh02dev&theme=github-compact&height=350&hide_border=true)](https://github.com/rishabh02dev/github-readme-activity-graph)
+
+<br/>
+<p align = "center">
+ <img src="https://github-profile-trophy.vercel.app/?username=rishabh02dev&no-frame=true&no-bg=true&column=-1&theme=monokai" />
 </p>
 
-<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rishabh02dev&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
-
-
-
-<div align='center' width="6rem">
-    <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh02dev&theme=jolly&layout=compact&langs_count=10&hide=html"/>
-<!--     <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=rishabh02dev&theme=jolly&show_icons=true"/> -->
-    <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=rishabh02dev&theme=jolly&border_radius=5" alt= "stats"/>
-</div>
+<p align="center"> <strong><em><sub align="center"> Feeding more days to fill his tummy! </sub></strong></em> </p>
 
 
 
