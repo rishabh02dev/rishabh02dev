@@ -18,6 +18,12 @@
             <span><strong>Java</strong></span><br>
             <td width="80px" align="center">
             <span><strong>Canva</strong></span><br>
+                 <td width="80px" align="center">
+            <span><strong>Express.js</strong></span><br>
+               <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+               <td width="80px" align="center">
+            <span><strong>Mongodb</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
          </td>
         </tr>
