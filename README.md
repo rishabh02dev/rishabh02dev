@@ -12,7 +12,7 @@
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png) 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,expressjs,mongodb,reactjs,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,expressjs,mongodb,react,scss,html,javascript,nodejs,figma&theme=light)](https://skills.thijs.gg)
 
 
 <br/>
