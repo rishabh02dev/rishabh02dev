@@ -11,24 +11,10 @@
   
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png) 
 
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-                 <td width="80px" align="center">
-            <span><strong>Express.js</strong></span><br>
-               <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-               <td width="80px" align="center">
-            <span><strong>Mongodb</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-         </td>
-        </tr>
-    </tbody>
-</table>
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,expressjs,mongodb,reactjs,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
+
 <br/>
 
 ## My Github Stats 🏆
@@ -47,10 +33,10 @@
 </div>
 
 <br/>
-<!-- [![Aswin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
+<!-- [![rishabh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
  -->
 
-[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh02dev&theme=github-compact&height=350&hide_border=true)](https://github.com/rishabh02dev/github-readme-activity-graph)
+[![rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh02dev&theme=github-compact&height=350&hide_border=true)](https://github.com/rishabh02dev/github-readme-activity-graph)
 
 <br/>
 <p align = "center">
