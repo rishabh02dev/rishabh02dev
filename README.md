@@ -32,8 +32,7 @@
 </div>
 
 <br/>
-<!-- [![rishabh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
- -->
+
 
 [![rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh02dev&theme=github-compact&height=350&hide_border=true)](https://github.com/rishabh02dev/github-readme-activity-graph)
 
