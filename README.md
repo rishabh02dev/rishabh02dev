@@ -7,7 +7,7 @@
    
      
 - 📫 How to reach me **kumkumshukla631@gmail.com**<br>  
-<p>My Resume: <a href = "https://drive.google.com/file/d/1T1yeDbaLzwK-BkV14sInEH3jYLmoGUeW/view" target = "_blank">Click Here</a></p>
+<p>My Resume: <a href = "https://drive.google.com/file/d/1_rwZHQRf6WsO2LMxcYAkc5ZyovaT3XkP/view?usp=sharing">Click Here</a></p>
 
 [GitHub Profile Views Counter]: https://github.com/rishabh02dev/github-profile-views-counter
 
