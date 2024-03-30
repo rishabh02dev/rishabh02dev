@@ -19,6 +19,10 @@
 [![My Skills](https://skills.thijs.gg/icons?i=java,expressjs,mongodb,react,scss,html,javascript,nodejs,mysql,tailwind,figma&theme=light)](https://skills.thijs.gg)
 
 
+
+
+
+
 <br/> 
 
 ## My Github Stats 🏆
