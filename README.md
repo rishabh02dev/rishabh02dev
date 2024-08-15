@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-- 🌱 I’m currently learning Java with DSA , Backend Development
+- 🌱 I’m currently learning Java with DSA and Mern Stack development.
 
   
    
@@ -16,7 +16,7 @@
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png) 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,expressjs,mongodb,react,scss,html,javascript,nodejs,mysql,tailwind,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,express.js,mongodb,node.js,react.js,scss,html,javascript,nodejs,mysql,tailwind,figma&theme=light)](https://skills.thijs.gg)
 
 
 
