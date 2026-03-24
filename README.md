@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 
 <h3 align="center">
-Developer | SDE-1 @ Celestica | Problem Solver
+Developer | Unpaid Runner
 </h3>
 
 <p align="center">
@@ -15,7 +15,6 @@ Developer | SDE-1 @ Celestica | Problem Solver
 - 💻 Currently working as **SDE-1 at Celestica**
 - 🚀 Developer passionate about **building scalable applications and infrastructure**
 - 🧠 Love **problem solving leveraging AI**
-- 📚 Currently following **Harkirat Singh's Cohort**
 - 🏃 Enjoy **running and maintaining a disciplined lifestyle**
 - 🌐 Interested in **DevOps, networking edge, and distributed systems**
 
